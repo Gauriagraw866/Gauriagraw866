@@ -4,7 +4,7 @@
 <img align="right"alt="coding"width="400"src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauriagraw866&label=Profile%20views&color=0e75b6&style=flat" alt="gauriagraw866" /> </p>
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gauri-agrawal-461b60283](https://www.linkedin.com/in/gauri-agrawal-461b60283)
 
