@@ -1,19 +1,30 @@
-
 <h1 align="center">Hi 👋, I'm Gauri Agrawal</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauriagraw866&label=Profile%20views&color=0e75b6&style=flat" alt="gauriagraw866" /> </p>
+<h3 align="center">AI Engineer | Full Stack Developer (React, FastAPI, Flask, MongoDB)</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+<img align="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gauri-agrawal-461b60283](https://www.linkedin.com/in/gauri-agrawal-461b60283)
-
-- 📫 How to reach me **agrawalgauri866@gmail.com**
-
-- ⚡ Fun fact **I think I can do any task quickly if someone challenges me**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gauriagraw866&label=Profile%20views&color=0e75b6&style=flat" alt="gauriagraw866" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🤖 Building **AI-powered applications (LLMs, NLP, AI Agents)**
+- 💻 Skilled in **Full Stack Development (React + Python APIs)**
+- ⚡ Strong in **API development, system design & real-world projects**
+- 🌱 Currently exploring **RAG systems & advanced AI agents**
+
+---
+
+### 📫 Contact Me
+- Email: **agrawalgauri866@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/gauri-agrawal-461b60283**
+
+---
+
+### ⚡ Fun Fact
+I love solving challenges and building real-world tech solutions 🚀
 <a href="https://linkedin.com/in/gauri agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauri agrawal" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
